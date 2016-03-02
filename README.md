@@ -31,4 +31,6 @@ An all rounded fitness app that uses your social connections to motivate you.
 
 
 ####Preview-
-![alt tag](wireframes.gif)
+![Landing page](https://raw.githubusercontent.com/fit360/wireframes/master/home_layouts/landing.png)
+![Map search](https://raw.githubusercontent.com/fit360/wireframes/master/home_layouts/map_search_fragment.png)
+![Users list](https://raw.githubusercontent.com/fit360/wireframes/master/home_layouts/user_list_fragment.png)
