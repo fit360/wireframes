@@ -1,4 +1,4 @@
-package com.example.aparna.fit360;
+package com.example.aparna.fit360.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -7,13 +7,9 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.example.aparna.fit360.activities.ChatActivity;
-import com.example.aparna.fit360.activities.CommunityActivity;
-import com.example.aparna.fit360.activities.MapActivity;
-import com.example.aparna.fit360.activities.ProfileActivity;
+import com.example.aparna.fit360.R;
 
 public class HomeActivity extends AppCompatActivity {
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

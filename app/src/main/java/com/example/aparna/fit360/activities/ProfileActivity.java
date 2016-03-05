@@ -7,7 +7,6 @@ import android.support.v7.widget.Toolbar;
 import com.example.aparna.fit360.R;
 
 public class ProfileActivity extends AppCompatActivity {
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -15,5 +14,4 @@ public class ProfileActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
     }
-
 }
