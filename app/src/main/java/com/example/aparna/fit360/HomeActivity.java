@@ -1,4 +1,4 @@
-package com.example.aparna.wireframes;
+package com.example.aparna.fit360;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -7,10 +7,10 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.example.aparna.wireframes.activities.ChatActivity;
-import com.example.aparna.wireframes.activities.CommunityActivity;
-import com.example.aparna.wireframes.activities.MapActivity;
-import com.example.aparna.wireframes.activities.ProfileActivity;
+import com.example.aparna.fit360.activities.ChatActivity;
+import com.example.aparna.fit360.activities.CommunityActivity;
+import com.example.aparna.fit360.activities.MapActivity;
+import com.example.aparna.fit360.activities.ProfileActivity;
 
 public class HomeActivity extends AppCompatActivity {
 

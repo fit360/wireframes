@@ -1,9 +1,9 @@
-package com.example.aparna.wireframes.activities;
+package com.example.aparna.fit360.activities;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import com.example.aparna.wireframes.R;
+import com.example.aparna.fit360.R;
 
 public class MapActivity extends AppCompatActivity {
 

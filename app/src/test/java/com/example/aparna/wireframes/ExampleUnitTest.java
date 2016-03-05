@@ -1,4 +1,4 @@
-package com.example.aparna.wireframes;
+package com.example.aparna.fit360;
 
 import org.junit.Test;
 
